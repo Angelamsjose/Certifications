@@ -1,0 +1,9 @@
+Python for statistical analysis    ude.my/UC-0ae775e5-6c81-4cb3-8915-004fe15b6671
+SQL- MySQL for Data Analytics and Business Intelligence   https://ude.my/UC-2d3788f9-13eb-47e9-927e-0d2642fe4007
+Data mining for Business in Python  https://ude.my/UC-2eb02831-5562-4882-99be-29d8550208c6
+Power Bi: Advanced Data Transformations and Modelling  https://ude.my/UC-09a6ec59-0f69-422f-8844-2aecc7b47a6a
+Advanced Analytics with Excel - data analysis tool Pak/Solver  https://ude.my/UC-9aec7015-de66-45e4-bb6b-d089c399a0be
+Fundamentals of Energy  https://ude.my/UC-26df5ab0-16a5-40f1-931c-7153d1b377cd
+Statistics for Data Analysis Using Excel  https://ude.my/UC-440c03d6-c601-4c1c-a60f-f59d2c3f45cc
+Jira Essentials | A complete Jira guide for beginners  https://ude.my/UC-f096dcd0-82a4-4261-b32e-1fa6313ec61f
+Data Analysis Essentials Using Excel   https://ude.my/UC-fe09da2f-d96e-4782-97c3-78217a2e0c7a
